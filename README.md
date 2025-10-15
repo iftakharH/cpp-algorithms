@@ -1,5 +1,5 @@
 # cpp-algorithms
-Algorithms using CPP course practice and tasks.
+Algorithms using CPP course practices and tasks.
 
 # Course Contents Details
 
